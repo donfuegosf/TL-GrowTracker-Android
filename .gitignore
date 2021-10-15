@@ -100,3 +100,6 @@ gradle-app.setting
 
 app/app-discrete-release.apk
 app/app-production-release.apk
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
